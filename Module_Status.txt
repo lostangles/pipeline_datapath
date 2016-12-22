@@ -1,0 +1,5 @@
+11/25/2016
+alu.v and alu_tb.v Complete
+registerFile.v and registerFile_tb.v Complete
+instructionMemory.v & tb.v Complete
+
